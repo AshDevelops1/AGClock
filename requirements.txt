@@ -1,8 +1,8 @@
-pip install PySide6
+PySide6
 
 # code quality
-pip install Pycodestyle
-pip install autopep8
-pip install pylint
-pip install flake8
-pip install black
+Pycodestyle
+autopep8
+pylint
+flake8
+black
